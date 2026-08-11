@@ -1,4 +1,5 @@
-# uv pip install langchain-mcp-adapters langchain langchain-openai python-dotenv streamlit
+# pip install streamlit python-dotenv langchain langchain-openai "mcp[cli]" langchain-mcp-adapters langgraph
+
 import streamlit as st
 from dotenv import load_dotenv
 
