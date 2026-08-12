@@ -1,0 +1,2 @@
+[console_scripts]
+finance-mcp = personal_finance.mcp_server:main
